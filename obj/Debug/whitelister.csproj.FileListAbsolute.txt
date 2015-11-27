@@ -1,0 +1,5 @@
+C:\Users\Shane\Documents\SharpDevelop Projects\whitelister\whitelister\bin\Debug\whitelister.exe
+C:\Users\Shane\Documents\SharpDevelop Projects\whitelister\whitelister\bin\Debug\whitelister.pdb
+C:\Users\Shane\Documents\SharpDevelop Projects\whitelister\whitelister\obj\Debug\whitelister.csprojResolveAssemblyReference.cache
+C:\Users\Shane\Documents\SharpDevelop Projects\whitelister\whitelister\obj\Debug\whitelister.exe
+C:\Users\Shane\Documents\SharpDevelop Projects\whitelister\whitelister\obj\Debug\whitelister.pdb
